@@ -1,7 +1,7 @@
 ## Anshika Gupta
 #### Hello, :blush:
   
- I am Anshika Gupta. I am interested in Web Development. Always Excited to learn new things.
+ I am Anshika Gupta. Interested in Web Development. Always Excited to learn new things.
  * 🌱 I’m currently learning **Web Development**.
  * 📫 ***How to reach me:*** Contact me on mail anshig674@gmail.com
  * :smiley: ***Pronouns:*** You can give one. 
