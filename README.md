@@ -1,9 +1,12 @@
 ## Anshika Gupta
 #### Hello, :blush:
   
- I am Anshika Gupta. Interested in Web Development. Always Excited to learn new things.
- * 🌱 I’m currently learning **Web Development**.
- * 📫 ***How to reach me:*** Contact me on mail anshig674@gmail.com
+ I am Anshika Gupta. My main interests are Web Development and Data Science. Always Excited to learn new things. At present I am seeking some good stuff to enhance my technological skills. 
+ * :telescope: I’m currently studying on B.Tech Computer Science.
+ * :dancers: I'm looking to collaborate on Web Development Project.
+ * 📫 ***How to reach me:*** 
+    1. *Email*: anshig674@gmail.com
+    2. *LinkedIn*: Anshika Gupta
  * :smiley: ***Pronouns:*** You can give one. 
 
 <!---
