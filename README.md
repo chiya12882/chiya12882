@@ -7,7 +7,7 @@
  * :dancers: I'm looking to collaborate on Web Development Project.
  * 📫 ***How to reach me:*** 
     1. *Email*: anshig674@gmail.com
-    2. *LinkedIn*: Anshika Gupta
+    2. *LinkedIn*: https://www.linkedin.com/in/anshika-gupta-507383204/
  * :smiley: ***Pronouns:*** You can give one. 
 
 <!---
